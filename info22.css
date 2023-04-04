@@ -1,0 +1,36 @@
+
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://i.insider.com/60f8372f0729770012b90e5d?width=1136&format=jpeg);
+    background-size: 75rem;
+    margin: 15% auto;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  57.75rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://cdnimg.melon.co.kr/resource/image/cds/musicstory/imgUrl20230315055256556.jpg);
+    border-radius: 10px;
+    background-size: 65rem;
+    margin: 15% auto;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  65.3rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+

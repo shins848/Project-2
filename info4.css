@@ -1,0 +1,28 @@
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://image.genie.co.kr/Y/IMAGE/IMG_MUZICAT/IV2/Genie_Magazine/10561/Mgz_Sub_IMG_20210730133016.jpg/dims/resize/Q_80,0);
+    border-radius: 10px;
+    background-size: 885px;
+    background-position: right;
+    margin: 15% auto;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  60.75rem;
+    margin-bottom: -40em;
+    width: 17rem;

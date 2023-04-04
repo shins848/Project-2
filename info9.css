@@ -1,0 +1,37 @@
+
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://i.scdn.co/image/ab67616d0000b273a0508809075283113c248e83);
+    background-position: 150rem;
+    background-size: 75rem;
+    margin: 15% auto;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: monospace;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  68.8rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+
+
+

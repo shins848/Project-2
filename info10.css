@@ -1,0 +1,37 @@
+
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://i.ytimg.com/vi/coaMyxxEm5w/maxresdefault.jpg);
+    background-position: right;
+    background-size: 75rem;
+    margin: 15% auto;
+    border-radius: 10px;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: monospace;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  64.6rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(http://voyagela.com/wp-content/uploads/2019/03/Reggie_Becton_-_Listening_Party_Image_SM_-_Image_Shot_by_Devone_Monroe.jpg);
+    background-position: bottom;
+    background-size: 75rem;
+    margin: 15% auto;
+    font-size: 1.3rem;
+    border-radius: 10px;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  59rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+
+
+
+
+
+    

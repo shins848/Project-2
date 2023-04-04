@@ -1,0 +1,27 @@
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://lh3.googleusercontent.com/a-/AD5-WCnfosqL3TxA_R8bF9vxmA0eveAavs1ZMIvWLoxR=w1437-h598-l90-rj-dcLZWKr7UG);
+    border-radius: 10px;
+    background-position: right;
+    margin: 15% auto;
+    font-size: 1.3rem;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: monospace;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  65rem;
+    margin-bottom: -40em;
+    width: 17rem;

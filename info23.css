@@ -1,0 +1,36 @@
+
+tr {
+    color: white;
+}
+
+table {
+    background-image: url(https://cdn.shopify.com/s/files/1/0594/5049/1016/files/Screen_Shot_2022-11-30_at_9.12.31_PM.png?v=1669871567&width=1500);
+    background-position: left;
+    margin: 15% auto;
+    font-size: 1.3rem;
+    border-radius: 10px;
+}
+
+th, td {
+    padding: 20px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.music1 {
+    margin-left:  57.8rem;
+    margin-bottom: -40em;
+    width: 17rem;
+
+
+
+
+
+
+
+
