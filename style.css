@@ -8,6 +8,12 @@ body {
                                             
 }
 
+@font-face {
+  font-family: "CactusJack";
+  src: url("../fonts/Cactus_Jack.ttf") format("truetype");
+  font-weight: normal;
+}
+
 h2 {
   font-family: 'Scribbler', sans-serif;
   font-size: 1.1rem;
